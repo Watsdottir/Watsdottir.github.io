@@ -2,7 +2,7 @@
 	<html lang="en">
 		<head>
 			<title>John Walter Mackenzie Dudding</title>
-				<link href='bootstrap-3.3.7-dist/css/bootstrap.css' rel='stylesheet'>
+				<link href="bootstrap-3.3.7-dist/css/bootstrap.css" rel="stylesheet">
 						<meta name="viewport" content="width=device-width, initial-scale=1">
 				<link href="https://fonts.googleapis.com/css?family=Niconne" rel="stylesheet">
 					<style>
