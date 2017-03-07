@@ -105,7 +105,7 @@
 			<li>Pevsner, Nikolaus. The Buildings of England: Leicestershire and Rutland (London, Penguin Books, 1960, p. 231, Snibston Pithead Baths)</li>
 			<li>Pevsner, Nikolaus. The Buildings of England: Derbyshire (London, Penguin Books, 1953, p. 101, Clay Cross Pithead Baths)</li>
 			<li>Pevsner, Nikolaus. The Buildings of England: Derbyshire (London, Penguin Books, 1953, p. 230, Granville Pithead Baths)</li>
-			<li>Pevsner, Nikolaus. The Buildings of England: Derbyshire (London, Penguin Books, 1953, p. 195, Williamsthorpe Colliery Pithead Bath</li>
+			<li>Pevsner, Nikolaus. The Buildings of England: Derbyshire (London, Penguin Books, 1953, p. 195, Williamthorpe Colliery Pithead Bath</li>
 			<li>Pevsner, Nikolaus. The Buildings of England: Nottinghamshire (London, Penguin Books, 1951, p. 151, Rufford Pithead Baths)</li>
 			<li>E-mail from Hugh Martin on 6 May 2014</li>
 			<li>Thirties Society Journal No 7, 1991, p. 48 - 51</li>
