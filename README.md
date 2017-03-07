@@ -90,7 +90,7 @@
 
 <button type="submit" class="btn btn-default">Send message</button>
 
-	‚<p><u>Notes</u></p>
+	<p><u>Notes</u></p>
 		<ol> 
 			<li>Birth certificate for John Mackenzie Dudding, born at 6 Wellington Road, Newark-on-Trent on 1 February 1898. England and Wales Civil Registration Indexes (London, England: General Register Office, 1Q/1898, Newark reg. distr., vol. 7b, p. 472)</li>
 			<li>1901 census for Tinley Garth, Yorkshire - North Riding shows John Walter Dudding as a mechanical engineer. Census Returns of England and Wales, 1901 (Kew, Surrey, England: The National Archives of the UK, class RG 13, piece 4552, folio 125, p. 32, sch. no. 244)</li>
